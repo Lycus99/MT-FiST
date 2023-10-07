@@ -1,12 +1,12 @@
 # from .CLNet import CLNet
 # from .Transformer import TransformerNet
-from .ResNet import Resnet
+# from .ResNet import Resnet
 from .MC_Loss import *
 
 model_zoo = {
     # 'CLNet': CLNet,
     # 'TransformerNet':TransformerNet,
-    'res':Resnet,
+    # 'res':Resnet,
     'tool': model_tool,
     'verb':model_verb,
     'target':model_target,
