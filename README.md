@@ -13,6 +13,6 @@ The dataset and evaluation metrics are [here](https://github.com/CAMMA-public/ch
 
 We use the ResNet-50 as the backbone pre-trained on ImageNet-1K. 
 
-## Model weights
+## Model weights and .pkl file
 
-Our model weights can be downloaded in [link](https://drive.google.com/drive/folders/1Wjo1AgDiSPjeysMDdhq5glpQ8qENFLDT?usp=drive_link).
+Our model weights and the .pkl file can be downloaded in [link](https://drive.google.com/drive/folders/1Wjo1AgDiSPjeysMDdhq5glpQ8qENFLDT?usp=drive_link).
